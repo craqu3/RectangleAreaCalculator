@@ -1,0 +1,9 @@
+1.Home
+2.Ask a user width
+3.Read width
+4.Ask a user length
+5.Read length
+6.width * length
+7.Read result
+8.write The result is: result
+9.End
