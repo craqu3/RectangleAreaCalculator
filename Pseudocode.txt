@@ -3,6 +3,6 @@ Variables float:width,length,result;
 Home
 	Write("Insert rectangle length:")
 	Write("Insert rectangle width:")
-	length * width	then
+	result = length * width
 	Write(f"The result is: {result}")
 End
